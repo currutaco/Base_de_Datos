@@ -91,5 +91,7 @@ fecha, número de páginas y el número de ejemplares vendidos.
 
 ![ejercicio](https://user-images.githubusercontent.com/73856511/169566145-c840a730-5fb7-41d8-bedd-ff94dbde82e9.png)
 
+https://www.db-fiddle.com/f/3mbByVAeVvroqApggeWq49/0
+
 
 
