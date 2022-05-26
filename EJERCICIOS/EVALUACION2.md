@@ -132,3 +132,5 @@ Modelo entidad/relación
 
 
 Base de datos para MySQL
+
+https://www.db-fiddle.com/f/tEskidpyRuMQMgcX6bUcSo/0
