@@ -33,5 +33,6 @@ un código de categoría único.
 
 ![image](https://user-images.githubusercontent.com/73856511/171666648-2d76c7ba-c375-40d7-b6ae-14234972951f.png)
 
+https://www.db-fiddle.com/f/5qYPz2NMDwnxtGLibVuZ1F/0
 
 
