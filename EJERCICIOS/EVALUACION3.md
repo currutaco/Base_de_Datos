@@ -38,8 +38,11 @@ productos que tiene. Ordene el resultado descendentemente por el número de
 productos. (valor 4.5)
 
 SELECT marca, COUNT(MARCA)
+
 FROM producto
+
 GROUP BY(marca)
+
 ORDER BY(count(marca)) DESC;
 
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
@@ -47,7 +50,9 @@ uno de los fabricantes. El resultado mostrará el nombre del fabricante junto co
 datos que se solicitan. (valor 4.5)
 
 SELECT marca, MAX(precio),MIN(precio),AVG(precio)
+
 FROM producto
+
 GROUP BY(marca);
 
 4. Muestra el nombre de cada fabricante, junto con el precio máximo, precio mínimo,
@@ -55,7 +60,9 @@ precio medio y el número total de productos de los fabricantes que tienen un pr
 medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
 
 SELECT marca, MAX(precio),MIN(precio),AVG(precio), COUNT(precio)>50
+
 FROM producto
+
 GROUP BY(marca);
 
 
