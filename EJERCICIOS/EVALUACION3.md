@@ -13,11 +13,12 @@ Es un sistema que agrega y combina información de diferentes fuentes en un alma
 
 2. Realiza un diseño del modelo en estrella (valor 2)
 
-![image](https://user-images.githubusercontent.com/73856511/171904879-745c313a-6ac4-4ae7-98dd-603c57c38857.png)
+![image](https://user-images.githubusercontent.com/73856511/171905391-997d7ccb-a569-4c01-b415-6b08b2dbe1f3.png)
 
 
 3. Realiza un diseño del modelo copo de nieve (valor 2)
 
+![image](https://user-images.githubusercontent.com/73856511/171906079-2a2fce96-d4e4-4f05-a805-75ff8a8f60d9.png)
 
 ## Práctica 7
 ### Funciones en SQL
